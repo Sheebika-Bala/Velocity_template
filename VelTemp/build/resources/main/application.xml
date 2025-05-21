@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <field>
+        <name>field1</name>
+        <type>text</type>
+        <label>Enter your name:</label>
+    </field>
+    <field>
+        <name>field2</name>
+        <type>radio</type>
+        <label>Select gender:</label>
+        <option>Male</option>
+        <option>Female</option>
+    </field>
+    <field>
+        <name>field3</name>
+        <type>message</type>
+        <label>Thank you for submitting!</label>
+    </field>
+</form>
